@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Freelance/Udemy/crear%20cursos%20grabacion/Cursos%20Completos_Grabacion/Machine%20Learning/MLOPs/Ingles/Entrega/3.%20Model%20registration%20with%20MLFlow/mlruns/0/b49ddc4085e54907ae9aa619b188ce7a/artifacts
+end_time: 1703336534725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b49ddc4085e54907ae9aa619b188ce7a
+run_name: masked-lark-865
+run_uuid: b49ddc4085e54907ae9aa619b188ce7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703336534664
+status: 3
+tags: []
+user_id: vikas

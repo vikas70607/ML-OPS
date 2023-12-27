@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Freelance/Udemy/crear%20cursos%20grabacion/Cursos%20Completos_Grabacion/Machine%20Learning/MLOPs/Ingles/Entrega/3.%20Model%20registration%20with%20MLFlow/mlruns/0/67698c09e97243c790081e60d9ac52bc/artifacts
+end_time: 1703336489639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67698c09e97243c790081e60d9ac52bc
+run_name: mercurial-bee-481
+run_uuid: 67698c09e97243c790081e60d9ac52bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703336485393
+status: 4
+tags: []
+user_id: vikas
