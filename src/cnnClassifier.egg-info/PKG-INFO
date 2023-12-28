@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/vikas/Chicken-Disease-Classification--Project
+Author: vikas
+Author-email: vikas70607@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/vikas/Chicken-Disease-Classification--Project/issues
+Description: # MLops
+Platform: UNKNOWN
